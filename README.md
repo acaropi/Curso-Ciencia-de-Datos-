@@ -1,2 +1,2 @@
 # Curso-Ciencia-de-Datos-
-Clase de Introducción a Ciencia de Datos 2026-01
+Entregas del Curso de Introducción a la Ciencia de Datos
